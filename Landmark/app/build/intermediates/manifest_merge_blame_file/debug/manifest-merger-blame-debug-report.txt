@@ -1,0 +1,85 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<!--
+3 Copyright 2014 The Android Open Source Project
+4
+5 Licensed under the Apache License, Version 2.0 (the "License");
+6 you may not use this file except in compliance with the License.
+7 You may obtain a copy of the License at
+8
+9     http://www.apache.org/licenses/LICENSE-2.0
+10
+11 Unless required by applicable law or agreed to in writing, software
+12 distributed under the License is distributed on an "AS IS" BASIS,
+13 WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+14 See the License for the specific language governing permissions and
+15 limitations under the License.
+16-->
+17<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+18    package="android.example.com.tflitecamerademo"
+19    android:versionCode="1"
+20    android:versionName="1.0" >
+21
+22    <uses-sdk
+23        android:minSdkVersion="21"
+23-->C:\Users\George\Desktop\ProiectSIM\Landmark\app\src\main\AndroidManifest.xml
+24        android:targetSdkVersion="26" />
+24-->C:\Users\George\Desktop\ProiectSIM\Landmark\app\src\main\AndroidManifest.xml
+25
+26    <uses-permission android:name="android.permission.CAMERA" />
+26-->C:\Users\George\Desktop\ProiectSIM\Landmark\app\src\main\AndroidManifest.xml:21:5-65
+26-->C:\Users\George\Desktop\ProiectSIM\Landmark\app\src\main\AndroidManifest.xml:21:22-62
+27    <uses-permission android:name="android.permission.INTERNET" />
+27-->C:\Users\George\Desktop\ProiectSIM\Landmark\app\src\main\AndroidManifest.xml:22:5-67
+27-->C:\Users\George\Desktop\ProiectSIM\Landmark\app\src\main\AndroidManifest.xml:22:22-64
+28    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+28-->C:\Users\George\Desktop\ProiectSIM\Landmark\app\src\main\AndroidManifest.xml:23:5-81
+28-->C:\Users\George\Desktop\ProiectSIM\Landmark\app\src\main\AndroidManifest.xml:23:22-78
+29    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+29-->C:\Users\George\Desktop\ProiectSIM\Landmark\app\src\main\AndroidManifest.xml:24:5-79
+29-->C:\Users\George\Desktop\ProiectSIM\Landmark\app\src\main\AndroidManifest.xml:24:22-76
+30
+31    <uses-feature android:name="android.hardware.camera" />
+31-->C:\Users\George\Desktop\ProiectSIM\Landmark\app\src\main\AndroidManifest.xml:25:5-60
+31-->C:\Users\George\Desktop\ProiectSIM\Landmark\app\src\main\AndroidManifest.xml:25:19-57
+32    <uses-feature android:name="android.hardware.camera.autofocus" />
+32-->C:\Users\George\Desktop\ProiectSIM\Landmark\app\src\main\AndroidManifest.xml:26:5-70
+32-->C:\Users\George\Desktop\ProiectSIM\Landmark\app\src\main\AndroidManifest.xml:26:19-67
+33
+34    <application
+34-->C:\Users\George\Desktop\ProiectSIM\Landmark\app\src\main\AndroidManifest.xml:28:5-42:19
+35        android:allowBackup="true"
+35-->C:\Users\George\Desktop\ProiectSIM\Landmark\app\src\main\AndroidManifest.xml:28:18-44
+36        android:debuggable="true"
+37        android:icon="@mipmap/land_launcher"
+37-->C:\Users\George\Desktop\ProiectSIM\Landmark\app\src\main\AndroidManifest.xml:30:9-45
+38        android:label="@string/app_name1"
+38-->C:\Users\George\Desktop\ProiectSIM\Landmark\app\src\main\AndroidManifest.xml:29:9-42
+39        android:testOnly="true"
+40        android:theme="@style/AppTheme" >
+40-->C:\Users\George\Desktop\ProiectSIM\Landmark\app\src\main\AndroidManifest.xml:31:9-40
+41        <activity
+41-->C:\Users\George\Desktop\ProiectSIM\Landmark\app\src\main\AndroidManifest.xml:33:9-39:20
+42            android:name="com.example.android.tflitecamerademo.Start"
+42-->C:\Users\George\Desktop\ProiectSIM\Landmark\app\src\main\AndroidManifest.xml:33:19-76
+43            android:label="@string/app_name1" >
+43-->C:\Users\George\Desktop\ProiectSIM\Landmark\app\src\main\AndroidManifest.xml:34:19-52
+44            <intent-filter>
+44-->C:\Users\George\Desktop\ProiectSIM\Landmark\app\src\main\AndroidManifest.xml:35:13-38:29
+45                <action android:name="android.intent.action.MAIN" />
+45-->C:\Users\George\Desktop\ProiectSIM\Landmark\app\src\main\AndroidManifest.xml:36:17-69
+45-->C:\Users\George\Desktop\ProiectSIM\Landmark\app\src\main\AndroidManifest.xml:36:25-66
+46
+47                <category android:name="android.intent.category.LAUNCHER" />
+47-->C:\Users\George\Desktop\ProiectSIM\Landmark\app\src\main\AndroidManifest.xml:37:17-77
+47-->C:\Users\George\Desktop\ProiectSIM\Landmark\app\src\main\AndroidManifest.xml:37:27-74
+48            </intent-filter>
+49        </activity>
+50        <activity android:name="com.example.android.tflitecamerademo.CameraActivity" />
+50-->C:\Users\George\Desktop\ProiectSIM\Landmark\app\src\main\AndroidManifest.xml:40:9-61
+50-->C:\Users\George\Desktop\ProiectSIM\Landmark\app\src\main\AndroidManifest.xml:40:19-49
+51        <activity android:name="com.example.android.tflitecamerademo.WeatherController" />
+51-->C:\Users\George\Desktop\ProiectSIM\Landmark\app\src\main\AndroidManifest.xml:41:9-64
+51-->C:\Users\George\Desktop\ProiectSIM\Landmark\app\src\main\AndroidManifest.xml:41:19-52
+52    </application>
+53
+54</manifest>

@@ -1,0 +1,171 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\George\Desktop\ProiectSIM\Landmark\app\src\main\AndroidManifest.xml:18:1-44:12
+INJECTED from C:\Users\George\Desktop\ProiectSIM\Landmark\app\src\main\AndroidManifest.xml:18:1-44:12
+INJECTED from C:\Users\George\Desktop\ProiectSIM\Landmark\app\src\main\AndroidManifest.xml:18:1-44:12
+INJECTED from C:\Users\George\Desktop\ProiectSIM\Landmark\app\src\main\AndroidManifest.xml:18:1-44:12
+MERGED from [com.android.support:design:25.2.0] C:\Users\George\.gradle\caches\transforms-2\files-2.1\591ade982c3cc030308e7d68132eeae7\design-25.2.0\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:appcompat-v7:25.2.0] C:\Users\George\.gradle\caches\transforms-2\files-2.1\679b3635282cf1a639dc7b550e144445\appcompat-v7-25.2.0\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\George\.gradle\caches\transforms-2\files-2.1\27f4636022c43a9cbff6cb4abe2912c8\constraint-layout-1.1.0\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v13:25.2.0] C:\Users\George\.gradle\caches\transforms-2\files-2.1\0c589cb7f33f3a39abb666cb3b3b83d8\support-v13-25.2.0\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] C:\Users\George\.gradle\caches\transforms-2\files-2.1\2e285e9e3db2e924e51b6a446b009752\animated-vector-drawable-25.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-vector-drawable:25.2.0] C:\Users\George\.gradle\caches\transforms-2\files-2.1\45f20a0cab2a163add7b3d303eff23ca\support-vector-drawable-25.2.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:recyclerview-v7:25.2.0] C:\Users\George\.gradle\caches\transforms-2\files-2.1\c0a45f2faa3029b011ca03dc7743f11e\recyclerview-v7-25.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:25.2.0] C:\Users\George\.gradle\caches\transforms-2\files-2.1\82df09e79082f86ab99410567cfb61b4\transition-25.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\George\.gradle\caches\transforms-2\files-2.1\cedf5cfbdfdcdc9f83c434ebab664727\support-v4-25.2.0\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\George\.gradle\caches\transforms-2\files-2.1\c35df23bcaf536546ba1ee23af576920\support-fragment-25.2.0\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\George\.gradle\caches\transforms-2\files-2.1\dce6fa4f1e278ca80076ec69b499ea5f\support-media-compat-25.2.0\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\George\.gradle\caches\transforms-2\files-2.1\cb942b033173a33193e421645a98f501\support-core-utils-25.2.0\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\George\.gradle\caches\transforms-2\files-2.1\0ec733344a5e087cf0f72092f832ea2c\support-core-ui-25.2.0\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\George\.gradle\caches\transforms-2\files-2.1\4e9387d7e1a3f60ee529f2890acd984f\support-compat-25.2.0\AndroidManifest.xml:17:1-27:12
+MERGED from [org.tensorflow:tensorflow-lite:2.0.0] C:\Users\George\.gradle\caches\transforms-2\files-2.1\f44ae241db172c2dc6d8b3f18712a1b7\tensorflow-lite-2.0.0\AndroidManifest.xml:2:1-10:12
+INJECTED from C:\Users\George\Desktop\ProiectSIM\Landmark\app\src\main\AndroidManifest.xml:18:1-44:12
+INJECTED from C:\Users\George\Desktop\ProiectSIM\Landmark\app\src\main\AndroidManifest.xml:18:1-44:12
+INJECTED from C:\Users\George\Desktop\ProiectSIM\Landmark\app\src\main\AndroidManifest.xml:18:1-44:12
+	package
+		ADDED from C:\Users\George\Desktop\ProiectSIM\Landmark\app\src\main\AndroidManifest.xml:19:5-51
+		INJECTED from C:\Users\George\Desktop\ProiectSIM\Landmark\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\George\Desktop\ProiectSIM\Landmark\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\George\Desktop\ProiectSIM\Landmark\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\George\Desktop\ProiectSIM\Landmark\app\src\main\AndroidManifest.xml:18:1-44:12
+		INJECTED from C:\Users\George\Desktop\ProiectSIM\Landmark\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\George\Desktop\ProiectSIM\Landmark\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\George\Desktop\ProiectSIM\Landmark\app\src\main\AndroidManifest.xml:18:1-44:12
+		INJECTED from C:\Users\George\Desktop\ProiectSIM\Landmark\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\George\Desktop\ProiectSIM\Landmark\app\src\main\AndroidManifest.xml:18:11-69
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\George\Desktop\ProiectSIM\Landmark\app\src\main\AndroidManifest.xml:21:5-65
+	android:name
+		ADDED from C:\Users\George\Desktop\ProiectSIM\Landmark\app\src\main\AndroidManifest.xml:21:22-62
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\George\Desktop\ProiectSIM\Landmark\app\src\main\AndroidManifest.xml:22:5-67
+	android:name
+		ADDED from C:\Users\George\Desktop\ProiectSIM\Landmark\app\src\main\AndroidManifest.xml:22:22-64
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\George\Desktop\ProiectSIM\Landmark\app\src\main\AndroidManifest.xml:23:5-81
+	android:name
+		ADDED from C:\Users\George\Desktop\ProiectSIM\Landmark\app\src\main\AndroidManifest.xml:23:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\George\Desktop\ProiectSIM\Landmark\app\src\main\AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from C:\Users\George\Desktop\ProiectSIM\Landmark\app\src\main\AndroidManifest.xml:24:22-76
+uses-feature#android.hardware.camera
+ADDED from C:\Users\George\Desktop\ProiectSIM\Landmark\app\src\main\AndroidManifest.xml:25:5-60
+	android:name
+		ADDED from C:\Users\George\Desktop\ProiectSIM\Landmark\app\src\main\AndroidManifest.xml:25:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from C:\Users\George\Desktop\ProiectSIM\Landmark\app\src\main\AndroidManifest.xml:26:5-70
+	android:name
+		ADDED from C:\Users\George\Desktop\ProiectSIM\Landmark\app\src\main\AndroidManifest.xml:26:19-67
+application
+ADDED from C:\Users\George\Desktop\ProiectSIM\Landmark\app\src\main\AndroidManifest.xml:28:5-42:19
+MERGED from [com.android.support:design:25.2.0] C:\Users\George\.gradle\caches\transforms-2\files-2.1\591ade982c3cc030308e7d68132eeae7\design-25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:design:25.2.0] C:\Users\George\.gradle\caches\transforms-2\files-2.1\591ade982c3cc030308e7d68132eeae7\design-25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.2.0] C:\Users\George\.gradle\caches\transforms-2\files-2.1\679b3635282cf1a639dc7b550e144445\appcompat-v7-25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.2.0] C:\Users\George\.gradle\caches\transforms-2\files-2.1\679b3635282cf1a639dc7b550e144445\appcompat-v7-25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\George\.gradle\caches\transforms-2\files-2.1\27f4636022c43a9cbff6cb4abe2912c8\constraint-layout-1.1.0\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\George\.gradle\caches\transforms-2\files-2.1\27f4636022c43a9cbff6cb4abe2912c8\constraint-layout-1.1.0\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-v13:25.2.0] C:\Users\George\.gradle\caches\transforms-2\files-2.1\0c589cb7f33f3a39abb666cb3b3b83d8\support-v13-25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v13:25.2.0] C:\Users\George\.gradle\caches\transforms-2\files-2.1\0c589cb7f33f3a39abb666cb3b3b83d8\support-v13-25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] C:\Users\George\.gradle\caches\transforms-2\files-2.1\2e285e9e3db2e924e51b6a446b009752\animated-vector-drawable-25.2.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] C:\Users\George\.gradle\caches\transforms-2\files-2.1\2e285e9e3db2e924e51b6a446b009752\animated-vector-drawable-25.2.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.2.0] C:\Users\George\.gradle\caches\transforms-2\files-2.1\45f20a0cab2a163add7b3d303eff23ca\support-vector-drawable-25.2.0\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-vector-drawable:25.2.0] C:\Users\George\.gradle\caches\transforms-2\files-2.1\45f20a0cab2a163add7b3d303eff23ca\support-vector-drawable-25.2.0\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:transition:25.2.0] C:\Users\George\.gradle\caches\transforms-2\files-2.1\82df09e79082f86ab99410567cfb61b4\transition-25.2.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:transition:25.2.0] C:\Users\George\.gradle\caches\transforms-2\files-2.1\82df09e79082f86ab99410567cfb61b4\transition-25.2.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\George\.gradle\caches\transforms-2\files-2.1\cedf5cfbdfdcdc9f83c434ebab664727\support-v4-25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\George\.gradle\caches\transforms-2\files-2.1\cedf5cfbdfdcdc9f83c434ebab664727\support-v4-25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\George\.gradle\caches\transforms-2\files-2.1\c35df23bcaf536546ba1ee23af576920\support-fragment-25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\George\.gradle\caches\transforms-2\files-2.1\c35df23bcaf536546ba1ee23af576920\support-fragment-25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\George\.gradle\caches\transforms-2\files-2.1\dce6fa4f1e278ca80076ec69b499ea5f\support-media-compat-25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\George\.gradle\caches\transforms-2\files-2.1\dce6fa4f1e278ca80076ec69b499ea5f\support-media-compat-25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\George\.gradle\caches\transforms-2\files-2.1\cb942b033173a33193e421645a98f501\support-core-utils-25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\George\.gradle\caches\transforms-2\files-2.1\cb942b033173a33193e421645a98f501\support-core-utils-25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\George\.gradle\caches\transforms-2\files-2.1\0ec733344a5e087cf0f72092f832ea2c\support-core-ui-25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\George\.gradle\caches\transforms-2\files-2.1\0ec733344a5e087cf0f72092f832ea2c\support-core-ui-25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\George\.gradle\caches\transforms-2\files-2.1\4e9387d7e1a3f60ee529f2890acd984f\support-compat-25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\George\.gradle\caches\transforms-2\files-2.1\4e9387d7e1a3f60ee529f2890acd984f\support-compat-25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [org.tensorflow:tensorflow-lite:2.0.0] C:\Users\George\.gradle\caches\transforms-2\files-2.1\f44ae241db172c2dc6d8b3f18712a1b7\tensorflow-lite-2.0.0\AndroidManifest.xml:8:5-20
+MERGED from [org.tensorflow:tensorflow-lite:2.0.0] C:\Users\George\.gradle\caches\transforms-2\files-2.1\f44ae241db172c2dc6d8b3f18712a1b7\tensorflow-lite-2.0.0\AndroidManifest.xml:8:5-20
+	android:label
+		ADDED from C:\Users\George\Desktop\ProiectSIM\Landmark\app\src\main\AndroidManifest.xml:29:9-42
+	android:icon
+		ADDED from C:\Users\George\Desktop\ProiectSIM\Landmark\app\src\main\AndroidManifest.xml:30:9-45
+	android:allowBackup
+		ADDED from C:\Users\George\Desktop\ProiectSIM\Landmark\app\src\main\AndroidManifest.xml:28:18-44
+	android:theme
+		ADDED from C:\Users\George\Desktop\ProiectSIM\Landmark\app\src\main\AndroidManifest.xml:31:9-40
+activity#com.example.android.tflitecamerademo.Start
+ADDED from C:\Users\George\Desktop\ProiectSIM\Landmark\app\src\main\AndroidManifest.xml:33:9-39:20
+	android:label
+		ADDED from C:\Users\George\Desktop\ProiectSIM\Landmark\app\src\main\AndroidManifest.xml:34:19-52
+	android:name
+		ADDED from C:\Users\George\Desktop\ProiectSIM\Landmark\app\src\main\AndroidManifest.xml:33:19-76
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\George\Desktop\ProiectSIM\Landmark\app\src\main\AndroidManifest.xml:35:13-38:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\George\Desktop\ProiectSIM\Landmark\app\src\main\AndroidManifest.xml:36:17-69
+	android:name
+		ADDED from C:\Users\George\Desktop\ProiectSIM\Landmark\app\src\main\AndroidManifest.xml:36:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\George\Desktop\ProiectSIM\Landmark\app\src\main\AndroidManifest.xml:37:17-77
+	android:name
+		ADDED from C:\Users\George\Desktop\ProiectSIM\Landmark\app\src\main\AndroidManifest.xml:37:27-74
+activity#com.example.android.tflitecamerademo.CameraActivity
+ADDED from C:\Users\George\Desktop\ProiectSIM\Landmark\app\src\main\AndroidManifest.xml:40:9-61
+	android:name
+		ADDED from C:\Users\George\Desktop\ProiectSIM\Landmark\app\src\main\AndroidManifest.xml:40:19-49
+activity#com.example.android.tflitecamerademo.WeatherController
+ADDED from C:\Users\George\Desktop\ProiectSIM\Landmark\app\src\main\AndroidManifest.xml:41:9-64
+	android:name
+		ADDED from C:\Users\George\Desktop\ProiectSIM\Landmark\app\src\main\AndroidManifest.xml:41:19-52
+uses-sdk
+INJECTED from C:\Users\George\Desktop\ProiectSIM\Landmark\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\George\Desktop\ProiectSIM\Landmark\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\George\Desktop\ProiectSIM\Landmark\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:25.2.0] C:\Users\George\.gradle\caches\transforms-2\files-2.1\591ade982c3cc030308e7d68132eeae7\design-25.2.0\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:25.2.0] C:\Users\George\.gradle\caches\transforms-2\files-2.1\591ade982c3cc030308e7d68132eeae7\design-25.2.0\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.2.0] C:\Users\George\.gradle\caches\transforms-2\files-2.1\679b3635282cf1a639dc7b550e144445\appcompat-v7-25.2.0\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.2.0] C:\Users\George\.gradle\caches\transforms-2\files-2.1\679b3635282cf1a639dc7b550e144445\appcompat-v7-25.2.0\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\George\.gradle\caches\transforms-2\files-2.1\27f4636022c43a9cbff6cb4abe2912c8\constraint-layout-1.1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\George\.gradle\caches\transforms-2\files-2.1\27f4636022c43a9cbff6cb4abe2912c8\constraint-layout-1.1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v13:25.2.0] C:\Users\George\.gradle\caches\transforms-2\files-2.1\0c589cb7f33f3a39abb666cb3b3b83d8\support-v13-25.2.0\AndroidManifest.xml:21:5-23:55
+MERGED from [com.android.support:support-v13:25.2.0] C:\Users\George\.gradle\caches\transforms-2\files-2.1\0c589cb7f33f3a39abb666cb3b3b83d8\support-v13-25.2.0\AndroidManifest.xml:21:5-23:55
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] C:\Users\George\.gradle\caches\transforms-2\files-2.1\2e285e9e3db2e924e51b6a446b009752\animated-vector-drawable-25.2.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] C:\Users\George\.gradle\caches\transforms-2\files-2.1\2e285e9e3db2e924e51b6a446b009752\animated-vector-drawable-25.2.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.2.0] C:\Users\George\.gradle\caches\transforms-2\files-2.1\45f20a0cab2a163add7b3d303eff23ca\support-vector-drawable-25.2.0\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-vector-drawable:25.2.0] C:\Users\George\.gradle\caches\transforms-2\files-2.1\45f20a0cab2a163add7b3d303eff23ca\support-vector-drawable-25.2.0\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:recyclerview-v7:25.2.0] C:\Users\George\.gradle\caches\transforms-2\files-2.1\c0a45f2faa3029b011ca03dc7743f11e\recyclerview-v7-25.2.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.2.0] C:\Users\George\.gradle\caches\transforms-2\files-2.1\c0a45f2faa3029b011ca03dc7743f11e\recyclerview-v7-25.2.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.2.0] C:\Users\George\.gradle\caches\transforms-2\files-2.1\82df09e79082f86ab99410567cfb61b4\transition-25.2.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:25.2.0] C:\Users\George\.gradle\caches\transforms-2\files-2.1\82df09e79082f86ab99410567cfb61b4\transition-25.2.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\George\.gradle\caches\transforms-2\files-2.1\cedf5cfbdfdcdc9f83c434ebab664727\support-v4-25.2.0\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\George\.gradle\caches\transforms-2\files-2.1\cedf5cfbdfdcdc9f83c434ebab664727\support-v4-25.2.0\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\George\.gradle\caches\transforms-2\files-2.1\c35df23bcaf536546ba1ee23af576920\support-fragment-25.2.0\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\George\.gradle\caches\transforms-2\files-2.1\c35df23bcaf536546ba1ee23af576920\support-fragment-25.2.0\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\George\.gradle\caches\transforms-2\files-2.1\dce6fa4f1e278ca80076ec69b499ea5f\support-media-compat-25.2.0\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\George\.gradle\caches\transforms-2\files-2.1\dce6fa4f1e278ca80076ec69b499ea5f\support-media-compat-25.2.0\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\George\.gradle\caches\transforms-2\files-2.1\cb942b033173a33193e421645a98f501\support-core-utils-25.2.0\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\George\.gradle\caches\transforms-2\files-2.1\cb942b033173a33193e421645a98f501\support-core-utils-25.2.0\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\George\.gradle\caches\transforms-2\files-2.1\0ec733344a5e087cf0f72092f832ea2c\support-core-ui-25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\George\.gradle\caches\transforms-2\files-2.1\0ec733344a5e087cf0f72092f832ea2c\support-core-ui-25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\George\.gradle\caches\transforms-2\files-2.1\4e9387d7e1a3f60ee529f2890acd984f\support-compat-25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\George\.gradle\caches\transforms-2\files-2.1\4e9387d7e1a3f60ee529f2890acd984f\support-compat-25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [org.tensorflow:tensorflow-lite:2.0.0] C:\Users\George\.gradle\caches\transforms-2\files-2.1\f44ae241db172c2dc6d8b3f18712a1b7\tensorflow-lite-2.0.0\AndroidManifest.xml:5:5-6:41
+MERGED from [org.tensorflow:tensorflow-lite:2.0.0] C:\Users\George\.gradle\caches\transforms-2\files-2.1\f44ae241db172c2dc6d8b3f18712a1b7\tensorflow-lite-2.0.0\AndroidManifest.xml:5:5-6:41
+INJECTED from C:\Users\George\Desktop\ProiectSIM\Landmark\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\George\Desktop\ProiectSIM\Landmark\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.2.0] C:\Users\George\.gradle\caches\transforms-2\files-2.1\591ade982c3cc030308e7d68132eeae7\design-25.2.0\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from C:\Users\George\Desktop\ProiectSIM\Landmark\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\George\Desktop\ProiectSIM\Landmark\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\George\Desktop\ProiectSIM\Landmark\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\George\Desktop\ProiectSIM\Landmark\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\George\Desktop\ProiectSIM\Landmark\app\src\main\AndroidManifest.xml
+		MERGED from C:\Users\George\Desktop\ProiectSIM\Landmark\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\George\Desktop\ProiectSIM\Landmark\app\src\main\AndroidManifest.xml
