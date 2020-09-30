@@ -1,6 +1,6 @@
 # Landmark
 
-The application purpose is to recognise landmarks from Paris and find a route towards it while also oferring the user data about the current location. I used both Android Studio and Python with TensorFlow in this implementation.
+The application purpose is to recognize landmarks from Paris and find a route towards it while also oferring the user data about the current location. I used both Android Studio and Python with TensorFlow in this implementation.
 
 References
 
