@@ -8,7 +8,7 @@ References
 
 [2] 	„Rețele neuronale de convoluție,” [Interactiv]. Available: http://myac.xhost.ro/inva/Lab11/InvA_Lab11.pdf. [Accesat 27 01 2019].
 
-[3] 	„Towerds Data Science,” [Interactiv]. Available: https://towardsdatascience.com/classifying-skin-lesions-with-convolutional-neural-networks-fc1302c60d54. [Accesat 25 01 2019].
+[3] 	„Towards Data Science,” [Interactiv]. Available: https://towardsdatascience.com/classifying-skin-lesions-with-convolutional-neural-networks-fc1302c60d54. [Accesat 25 01 2019].
 
 [4] 	A. G. Howard, MobileNets: Efficient Convolutional Neural Networks for Mobile Vision, Google Inc..
 
